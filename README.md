@@ -152,23 +152,23 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 
 ---
 ## Application Screenshots
-# Login Page
+## Login Page
 ![Login Page](docs/images/loginScreen.jpg?raw=true)
 
-# Conversational Agent
+## Conversational Agent
 ![Conversational Agent](docs/images/conversational_agent.png?raw=true)
 
-# Analyze Image to identify safety risks
+## Analyze Image to identify safety risks
 ![Image Analysis](docs/images/safety_bedroom.png?raw=true)
 
-# Analyze Image to identify safety risks
+## Analyze Image to identify safety risks
 ![Image Analysis](docs/images/safety_kitchen.png?raw=true)
 
-# Outdoor Safety Advisor
+## Outdoor Safety Advisor
 ![Outdoor Safety](docs/images/outdoor_safety.png?raw=true)
 
-# Product Recommendation
-![Product Recommendation](docs/images/conversational_agent.png?raw=true)
+## Product Recommendation
+![Product Recommendation](docs/images/product_recommendation.png?raw=true)
 
 ---
 ## 📚 Planned Future Enhancements
