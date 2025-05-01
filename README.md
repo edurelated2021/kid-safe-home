@@ -179,12 +179,19 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 - 🔍 Add checklist, reminder and scheduler features
 - 🔍 Add room by room checklist generator feature
 - 🔍 Add gamified safety score feature
+- 📱 AR View: Use phone camera to scan the room and overlay hazard markers
 - 🛒 Integration with e-commerce APIs for live product recommendations
 - 📱 Mobile app version
 - 📱 Add voice assistant feature
 - 🌍 Multilingual support
 
 ---
+## Notes
+Images used in documentation are from https://unsplash.com/
+
+The information and recommendations provided within this app, including but not limited to those related to child safety, are generated using generative artificial intelligence technologies. While we are hopeful that the app offers helpful and relevant guidance, such recommendations may not be exhaustive, may contain omissions, or may not reflect the most current safety standards or individual circumstances.
+
+All users are strongly advised to perform their own research and consult qualified professionals where appropriate before making any decisions based on the content presented in the app. Product recommendations are provided for informational purposes only and do not constitute an endorsement or guarantee of safety, suitability, or effectiveness.
 
 ## 📄 License
 
