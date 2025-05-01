@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KidSafe AI - Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="bg-light">
+
+  <!-- Dark Navbar with Logo -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand d-flex align-items-center" href="#">
+        <i class="fas fa-child-reaching fa-lg me-2 text-success"></i>
+        <span class="fw-bold">KidSafe AI</span>
+      </a>
+      <button class="btn btn-light btn-sm" id="logoutBtn">Logout</button>
+    </div>
+  </nav>
+
+  <div class="container mt-4">
+
+    <!-- Tab navigation with icons -->
+    <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="chat-tab" data-bs-toggle="tab" data-bs-target="#chat" type="button" role="tab">
+          <i class="fas fa-comments me-1"></i> Conversational Agent
+        </button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="photo-tab" data-bs-toggle="tab" data-bs-target="#photo" type="button" role="tab">
+          <i class="fas fa-image me-1"></i> Upload Room Photo
+        </button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="outdoor-tab" data-bs-toggle="tab" data-bs-target="#outdoor" type="button" role="tab">
+          <i class="fas fa-hiking me-1"></i> Outdoor Safety Advisor
+        </button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="recommend-tab" data-bs-toggle="tab" data-bs-target="#recommend" type="button" role="tab">
+          <i class="fas fa-box-open me-1"></i> Product Recommendations
+        </button>
+      </li>
+    </ul>
+
+    <!-- Tab content -->
+    <div class="tab-content" id="myTabContent">
+
+      <!-- Chat Tab -->
+      <div class="tab-pane fade show active" id="chat" role="tabpanel">
+        <div class="mb-3">
+          <textarea id="chatInput" class="form-control" placeholder="Ask me anything about child safety..." rows="4"></textarea>
+        </div>
+        <button id="chatSendBtn" class="btn btn-warning mb-3">Ask</button>
+        <div id="chatResponse" class="mt-4"></div>
+        <div id="chatProcessingLoader" class="text-muted mb-3" style="display: none;">
+          <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+          Analyzing your query...
+        </div>
+      </div>
+
+      <!-- Photo Upload Tab -->
+      <div class="tab-pane fade" id="photo" role="tabpanel">
+        <form id="photoUploadForm" enctype="multipart/form-data">
+          <div class="mb-3">
+            <label for="photo" class="form-label">Upload Room Image:</label>
+            <input class="form-control" type="file" id="photo" name="photo" accept="image/*" required>
+          </div>
+          <button type="submit" class="btn btn-warning">Analyze Image</button>
+        </form>
+        <div id="photoAnalysisResult" class="mt-4"></div>
+      </div>
+
+      <!-- Outdoor Advisor Tab -->
+      <div class="tab-pane fade" id="outdoor" role="tabpanel">
+        <form id="outdoorSafetyForm">
+          <div class="mb-3">
+            <textarea id="outdoorActivity" class="form-control" placeholder="Describe the outdoor activity (e.g., Beach trip with my 3-year-old)..." rows="4"></textarea>
+          </div>
+          <div class="mb-3">
+            <input type="number" id="childAge" class="form-control" placeholder="Child's Age" min="0" required>
+          </div>
+          <button type="submit" class="btn btn-warning">Get Checklist</button>
+        </form>
+
+        <div id="outdoorSafetyResponse" class="mt-4"></div>
+
+        <div id="outdoorLoader" class="text-muted mb-3" style="display: none;">
+          <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+          Generating safety checklist for outdoor activity...
+        </div>
+      </div>
+
+      <!-- Recommend Products -->
+      <div class="tab-pane fade" id="recommend" role="tabpanel">
+        <div class="mb-3">
+          <textarea id="productQuery" class="form-control" placeholder="Ask for product suggestions for child safety..." rows="4"></textarea>
+        </div>
+        <button id="getRecommendations" class="btn btn-warning">Get Recommendations</button>
+        <div id="productRecommendations" class="mt-4"></div>
+        <div id="productLoader" class="text-muted mt-2" style="display: none;">
+          <span class="spinner-border spinner-border-sm me-2" role="status"></span>
+          Finding recommended safety products...
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/js/dashboard.js"></script>
+</body>
+</html>
