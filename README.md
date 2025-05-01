@@ -189,9 +189,9 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 ## Notes
 Images used in documentation are from https://unsplash.com/
 
-The information and recommendations provided within this app, including but not limited to those related to child safety, are generated using generative artificial intelligence technologies. While we are hopeful that the app offers helpful and relevant guidance, such recommendations may not be exhaustive, may contain omissions, or may not reflect the most current safety standards or individual circumstances.
+The information, recommendations, analysis and guidance provided through this application, including but not limited to content concerning child safety, are generated using generative artificial intelligence technologies. While we are hopeful that the app offers meaningful, context specific and relevant guidance, the recommendations may not be exhaustive and all inclusive, may have omissions, may not conform to the most current safety standards or circumstances that may vary from one individual to another.
 
-All users are strongly advised to perform their own research and consult qualified professionals where appropriate before making any decisions based on the content presented in the app. Product recommendations are provided for informational purposes only and do not constitute an endorsement or guarantee of safety, suitability, or effectiveness.
+Users are strongly encouraged to conduct independent research and consult with appropriately qualified professionals prior to making any decisions (implementation, purchase or others) based on the content presented within the app. Any product recommendations are intended solely for informational purposes and do not constitute an endorsement, certification, or guarantee of suitability, safety or effectiveness.
 
 ## 📄 License
 
