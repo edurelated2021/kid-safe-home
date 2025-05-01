@@ -7,19 +7,42 @@ An AI-powered web application that helps parents and guardians detect child safe
 
 ## 🛡️ Why KidSafe AI?
 
-Every year, thousands of children suffer preventable injuries in their own homes—from sharp corners, exposed electrical outlets, and unattended kitchen tools, to unsafe furniture arrangements. According to the WHO and CDC:
+Every year, thousands of children suffer preventable injuries in their own homes—from sharp corners, exposed electrical outlets, and unattended kitchen tools, to unsafe furniture arrangements. Here are some startling statistics related to home related injuries:
 
-- **Over 2,000 children** die annually in the U.S. due to home-related accidents.
+- **More than 2,000 children** younger than 15 years die annually in the United States due to home-related accidents.
+- **More than 3.4 million children** suffer unintentional accidental injuries in the home annually.
 - **Falls, burns, poisoning, and choking** are among the most common causes of injury.
 - Most accidents happen in seemingly safe, familiar places like **living rooms**, **kitchens**, or **bathrooms**.
 
 ### ⚠️ The Need
 
-Parents often overlook these risks due to lack of awareness, information overload, or simply not knowing what to look for. **KidSafe AI** was built to address this gap—by using artificial intelligence to:
-
+Parents often overlook these risks due to lack of awareness, information overload, or simply not knowing what to look for. **KidSafe AI** is built to address this gap—by using artificial intelligence to:
+- Ask any **generic safety related question** to the AI
 - Scan **uploaded room images** for visible hazards.
 - Offer **contextual safety checklists** based on outdoor activities.
-- Recommend **childproofing products** tailored to the user’s concern (e.g., “sharp edges,” “kitchen safety”).
+- Recommend **childproofing products** tailored to the user’s concern (e.g., “sharp edges,” “kitchen safety” etc).
+
+### 👶🛡️ App overview
+
+**KidSafe AI**
+KidSafe AI is an AI-powered web application designed to help parents and guardians create safer environments for children. Leveraging advanced language models and image analysis, the platform provides personalized safety recommendations across various contexts—indoors, outdoors, and through product suggestions.
+
+Key features include:
+
+-  **Conversational Agent:**  An AI chatbot that answers safety-related queries using real-time language model responses.
+
+- **Room Image Analysis:** Users can upload photos of their home interiors. The AI analyzes images to detect potential child safety hazards (e.g., sharp edges, exposed wires) and provides detailed recommendations.
+
+- **Outdoor Safety Advisor:** Based on natural language descriptions of upcoming activities (e.g., “a trip to the beach with my 3-year-old”), the AI generates a customized checklist tailored to the child’s age and the activity's nature.
+
+- **Product Recommendations**: An innovative AI tool that interprets user queries, extracts relevant safety concerns (like “sharp corners” or “kitchen safety”), and recommends suitable child-proofing products from a structured local product database.
+
+The platform integrates OpenAI's function calling and tool usage capabilities to ensure reliable and explainable AI behavior. 
+
+KidSafe AI empowers caregivers with proactive insights to protect children—making homes and outings safer, one intelligent suggestion at a time.
+
+### Language & Framework
+- [x] JavaScript
 
 ---
 
