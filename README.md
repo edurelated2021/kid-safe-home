@@ -200,6 +200,11 @@ The information, recommendations, analysis and guidance provided through this ap
 
 Users are strongly encouraged to conduct independent research and consult with appropriately qualified professionals prior to making any decisions (implementation, purchase or others) based on the content presented within the app. Any product recommendations are intended solely for informational purposes and do not constitute an endorsement, certification, or guarantee of suitability, safety or effectiveness.
 
+---
+## Contact Details
+e-mail id: edurelated2021@gmail.com
+---
+
 ## 📄 License
 
 MIT License
