@@ -34,11 +34,13 @@ Frontend (HTML + JS + Bootstrap)
         ▼
 Node.js + Express Backend
         |
-        |──▶ OpenAI GPT-4o for:
+        |──▶ OpenAI GPT-4.1 for:
         |     └── Natural language understanding
+        |     └── Image analysis for detailed hazard detection and analysis
         |     └── Tool/function calling
         |
         |──▶ Tools:
+        |     └── Conversational Agent (ask any question for safety recommendations)
         |     └── Image analyzer (room hazard detection)
         |     └── Outdoor checklist generator
         |     └── Product recommender (based on keywords)
@@ -79,24 +81,28 @@ OPENAI_API_KEY=your_openai_api_key
 
 ```
 .
-├── public/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── views/
-│   ├── index.html
-│   ├── login.html
+├── css
+│   ├── style.css
+│   └── ...
+|── js
+│   ├── dashboard.js
+│   └── ...
 ├── tools/
 │   ├── productRecommendationsService.js
 │   └── ...
 ├── data/
 │   └── products.json
 ├── routes/
-│   ├── image-analysis.js
-│   ├── outdoor-safety.js
-│   └── product-recommendations.js
+│   ├── chatAgent.js
+│   ├── imageAnalyzerAgent.js
+│   └── productRecommendationsAgent.js
+|   └── outdoorAdvisorAgent.js
+|   └── [Add additional agents...]
 ├── server.js
 └── .env
+└── package.json
+└── index.html
+└── dashboard.html
 ```
 
 ### 5. Start the Server
@@ -123,10 +129,12 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 ---
 
 ## 📚 Future Enhancements
-
-- 🔍 Real-time object detection for hazards
+- 🔍 Add checklist, reminder and scheduler features
+- 🔍 Add room by room checklist generator feature
+- 🔍 Add gamified safety score feature
 - 🛒 Integration with e-commerce APIs for live product recommendations
 - 📱 Mobile app version
+- 📱 Add voice assistant feature
 - 🌍 Multilingual support
 
 ---
