@@ -1,1 +1,42 @@
-
+[
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Stove Guard Pro",
+    "keywords": ["kitchen", "burns", "stove"],
+    "productDescription": "Prevents children from accessing hot stovetops.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Stove+Guard",
+    "productUrl": "https://example.com/stove-guard"
+  },
+  {
+    "productCategory": "Furniture Safety",
+    "productName": "Corner Cushion Pack",
+    "keywords": ["sharp corners", "edges", "table"],
+    "productDescription": "Softens sharp furniture corners to prevent injury.",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+ceSjd-oL._AC_SL1200_.jpg",
+    "productUrl": "https://www.amazon.com/Protectors-Resistant-Adhesive-Protector-Furniture/dp/B07YZ1FMBT/ref=sr_1_2_sspa?crid=262UQKVS01XZM&dib=eyJ2IjoiMSJ9.DUuuEGvT8mfGQ4KS6cUUer9on_9TTtxHlRtIx0s_T8rdDbdN4g6OUpvQoAWKEuVlZ0JN84KjhZgd650DnSmg7zBizdZOev6FXc5iAqwr5FjHuqr65CY0z4d-heXXNyojYSfO126dmE3w7z0PIwwYF2CtxfniZVcejZhY6pin2OU2Aw60Yh3n-doFgQdgUI1Zm3zxCvoZ3M5Bf6i641W3bpWsW3WehmiGwy-kWYadH2-Ndn7sWby5uRUFc89Jgy76dQKOorDK8a-GmtEdvihtpkTIFEb29gXF6C_9BbkR2Uw.APzKskE4ydw5EuaALp59WMRH56QkUjt4cSRDaiYDDIA&dib_tag=se&keywords=child+proofing+sharp+corners&qid=1746078864&sprefix=child+proofing+sharp+corne%2Caps%2C534&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Socket Plug Covers",
+    "keywords": ["electric", "socket", "outlet"],
+    "productDescription": "Prevents toddlers from inserting objects into power sockets.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Plug+Cover",
+    "productUrl": "https://example.com/plug-covers"
+  },
+  {
+    "productCategory": "Door Safety",
+    "productName": "Finger Pinch Guard",
+    "keywords": ["door", "pinch", "fingers"],
+    "productDescription": "Stops doors from slamming and pinching fingers.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Door+Guard",
+    "productUrl": "https://example.com/door-guard"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Window Lock Set",
+    "keywords": ["window", "lock", "fall"],
+    "productDescription": "Locks windows to prevent accidental openings.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Window+Lock",
+    "productUrl": "https://example.com/window-lock"
+  }
+]
