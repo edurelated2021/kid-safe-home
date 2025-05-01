@@ -13,7 +13,7 @@ router.post('/api/chat', async (req, res) => {
   try {
     const model = new ChatOpenAI({
       temperature: 0.7,
-      modelName: "gpt-4",  // or "gpt-3.5-turbo"
+      modelName: "gpt-4.1",  
       openAIApiKey: process.env.OPENAI_API_KEY
     });
 
