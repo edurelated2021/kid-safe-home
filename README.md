@@ -88,8 +88,8 @@ Node.js + Express Backend
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kidsafe-ai.git
-cd kidsafe-ai
+git clone https://github.com/edurelated2021/kid-safe-home.git
+cd kid-safe-home
 ```
 
 ### 2. Install Dependencies
@@ -100,7 +100,7 @@ npm install
 
 ### 3. Setup Environment Variables
 
-Create a `.env` file in the root directory and add your OpenAI API key:
+Edit `.env` file in the root directory and add your OpenAI API key:
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key
@@ -141,7 +141,7 @@ npm start
 ```
 
 By default, the app runs at: `http://localhost:3000`
-Enter user as "admin" and credential as "admin123" to login to the dashboard screen.  
+Enter user as "admin" and credential as "admin123" on the Login screen to navigate to the dashboard screen.  
 
 ---
 
