@@ -202,7 +202,8 @@ Users are strongly encouraged to conduct independent research and consult with a
 
 ---
 ## Contact Details
-e-mail id: edurelated2021@gmail.com
+e-mail id: edurelated2021@gmail.com  
+
 ---
 
 ## 📄 License
