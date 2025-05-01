@@ -131,12 +131,6 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 
 ---
 
-## 🤝 Contributing
-
-If you'd like to improve KidSafe AI, feel free to fork and submit a pull request. Contributions are welcome!
-
----
-
 ## 📄 License
 
 MIT License
