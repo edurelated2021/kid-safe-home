@@ -46,7 +46,8 @@ KidSafe AI empowers caregivers with proactive insights to protect children—mak
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
+![Architecture Diagram](docs/images/arch_diagram.jpg?raw=true)
 
 The application follows a modular, modern AI-first architecture:
 
@@ -151,7 +152,7 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 
 ---
 
-## 📚 Future Enhancements
+## 📚 Planned Future Enhancements
 - 🔍 Add checklist, reminder and scheduler features
 - 🔍 Add room by room checklist generator feature
 - 🔍 Add gamified safety score feature
