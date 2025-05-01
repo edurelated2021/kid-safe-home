@@ -51,7 +51,7 @@ KidSafe AI empowers caregivers with proactive insights to protect children—mak
 - [x] Node.js and Express (backend)
 - [x] Multer - node.js middleware for processing file uploads
 - [x] LangChain framework - LLM integration
-- [x] OpenAI api - GPT-4 as the underlying LLM (application leverages LLM's natural language processing and vision capabilities)
+- [x] OpenAI api - interacts with gpt-4.1 as the underlying LLM (app leverages LLM's natural language processing and vision capabilities)
 ---
 
 ## Architecture Overview
