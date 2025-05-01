@@ -160,6 +160,9 @@ Enter user as "admin" and credential as "admin123" on the Login screen to naviga
 
 ---
 ## Application Screenshots
+
+Link to the demo video:  https://youtu.be/6O2rvoK5vrw  
+
 ## Login Page
 ![Login Page](docs/images/loginScreen.jpg?raw=true)
 
