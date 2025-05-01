@@ -33,8 +33,8 @@ const tools = [
   }
 ];
 
-// Approved list of keywords to perform search with
-const approvedKeywords = [
+// Supported list of keywords to perform search with
+const supportedKeywords = [
     "kitchen", "sharp corners", "edges", "door", "electric", "window", "fall", "table", "stair", "couch"
 ];
 
@@ -45,10 +45,10 @@ router.post('/api/product-recommendations', async (req, res) => {
 
     
 
-    // 1. Send the query and the approved keywords list to OpenAI for keyword extraction and tool name selection
+    // 1. Send the query and the supported keywords list to OpenAI for keyword extraction and tool name selection
     const prompt = `
-      You are a child safety expert. Given the following list of approved keywords: "${approvedKeywords}", 
-      analyze the user's query: "${query}" and extract the most relevant keywords from the approved keywords list.
+      You are a child safety expert. Given the following list of supported keywords: "${supportedKeywords}", 
+      analyze the user's query: "${query}" and extract the most relevant keywords from the supported keywords list.
       Then, choose the appropriate tool for this task and return the tool name and the selected keywords in a structured JSON format.
       Do not return any recommendations from your end. The format should be:
       {
