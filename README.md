@@ -14,6 +14,11 @@ Every year, thousands of children suffer preventable injuries in their own homes
 - **Falls, burns, poisoning, and choking** are among the most common causes of injury.
 - Most accidents happen in seemingly safe, familiar places like **living rooms**, **kitchens**, or **bathrooms**.
 
+**References**  
+- [Protecting Children in Your Home](https://safekids.org/sites/default/files/documents/ResearchReports/report_to_the_nation_protecting_children_in_your_home.pdf)
+- [Home Safety Program](https://www.nationwidechildrens.org/research/areas-of-research/center-for-injury-research-and-policy/injury-topics/research-projects/home-safety-program)
+- [Injury Statistics](https://www.stanfordchildrens.org/en/topic/default?id=accident-statistics-90-P02853)
+
 ### ⚠️ The Need
 
 Parents often overlook these risks due to lack of awareness, information overload, or simply not knowing what to look for. **KidSafe AI** is built to address this gap—by using artificial intelligence to:
@@ -161,7 +166,6 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 ## Analyze Image to identify safety risks
 ![Image Analysis](docs/images/safety_bedroom.png?raw=true)
 
-## Analyze Image to identify safety risks
 ![Image Analysis](docs/images/safety_kitchen.png?raw=true)
 
 ## Outdoor Safety Advisor
