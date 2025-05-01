@@ -46,9 +46,12 @@ The platform integrates OpenAI's function calling and tool usage capabilities to
 
 KidSafe AI empowers caregivers with proactive insights to protect children—making homes and outings safer, one intelligent suggestion at a time.
 
-### Language & Framework
-- [x] JavaScript
-
+### Language & Frameworks
+- [x] HTML, Javascript, Bootstrap CSS (web frontend)
+- [x] Node.js and Express (backend)
+- [x] Multer - node.js middleware for processing file uploads
+- [x] LangChain framework - LLM integration
+- [x] OpenAI api - GPT-4 as the underlying LLM (application leverages LLM's natural language processing and vision capabilities)
 ---
 
 ## Architecture Overview
