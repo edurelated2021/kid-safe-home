@@ -1,1 +1,48 @@
+body {
+  font-family: 'Poppins', 'Arial', sans-serif;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+textarea {
+  resize: none;
+}
+
+.annotation {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background-color: red;
+  border: 2px solid white;
+  border-radius: 3px;
+  cursor: pointer;
+  pointer-events: none; 
+}
+
+#outdoorSafetyResponse, #chatResponse {
+  background-color: #f0f9f4; 
+  border: 1px solid #c9e7d7;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+#outdoorSafetyResponse, #chatResponse {
+  transition: all 0.4s ease-in-out;
+  opacity: 0;
+}
+
+#outdoorSafetyResponse.visible {
+  opacity: 1;
+}
+
+#chatResponse.visible {
+  opacity: 1;
+}
+
+
 
