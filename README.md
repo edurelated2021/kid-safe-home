@@ -151,7 +151,15 @@ Enter user as "admin" and credential as "admin123" to login to the dashboard scr
 - ✅ Modular architecture (easy to extend)
 
 ---
+## Application Screenshots
+# Login Page
+![Login Page](docs/images/loginScreen.jpg?raw=true)
 
+
+# Conversational Agent
+![Conversational Agent](docs/images/conversational_agent.png?raw=true)
+
+---
 ## 📚 Planned Future Enhancements
 - 🔍 Add checklist, reminder and scheduler features
 - 🔍 Add room by room checklist generator feature
