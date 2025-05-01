@@ -26,6 +26,7 @@ Parents often overlook these risks due to lack of awareness, information overloa
 - Scan **uploaded room images** for visible hazards.
 - Offer **contextual safety checklists** based on outdoor activities.
 - Recommend **childproofing products** tailored to the user’s concern (e.g., “sharp edges,” “kitchen safety” etc).
+- Beyond its direct features, KidSafe AI will also serves as a mindset catalyst. By interacting with the app, parents and caregivers will begin to develop a sharper,  more intuitive sense of safety. The act of scanning rooms or querying potential risks fosters a long-term habit of proactively spotting hazards — turning safety awareness into second nature, even at times when they do **not** use the app!
 
 ### 👶🛡️ App overview
 
