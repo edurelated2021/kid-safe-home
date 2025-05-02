@@ -196,10 +196,6 @@ Link to the demo video:  https://youtu.be/6O2rvoK5vrw
 ## Notes
 Images used in documentation are from https://unsplash.com/
 
-The information, recommendations, analysis and guidance provided through this application, including but not limited to content concerning child safety, are generated using generative artificial intelligence technologies. While we are certain that the app will offer meaningful, context specific and relevant guidance for a wide range of user queries, the guidance and recommendations may not be exhaustive and all inclusive, may have omissions, may not conform to the most current safety standards (which can, in certain cases, vary by geography) or circumstances that may vary from one individual to another.
-
-Users are strongly encouraged to conduct independent research and consult with appropriately qualified professionals prior to making any decisions (implementation, purchase or others) based on the content presented within the app. Any product recommendations are intended solely for informational purposes and do not constitute an endorsement, certification, or guarantee of suitability, safety or effectiveness.
-
 ---
 ## Contact Details
 e-mail id: edurelated2021@gmail.com  
