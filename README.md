@@ -194,7 +194,7 @@ Link to the demo video:  https://youtu.be/6O2rvoK5vrw
 
 ---
 ## Notes
-Images used in documentation are from https://unsplash.com/
+Test images used in the documentation are from https://unsplash.com/
 
 ---
 ## Contact Details
