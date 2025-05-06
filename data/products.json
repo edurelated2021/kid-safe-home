@@ -2,7 +2,11 @@
   {
     "productCategory": "Kitchen Safety",
     "productName": "Stove Guard Pro",
-    "keywords": ["kitchen", "burns", "stove"],
+    "keywords": [
+      "kitchen",
+      "burns",
+      "stove"
+    ],
     "productDescription": "Prevents children from accessing hot stovetops.",
     "imageUrl": "https://via.placeholder.com/100x100.png?text=Stove+Guard",
     "productUrl": "https://example.com/stove-guard"
@@ -10,7 +14,11 @@
   {
     "productCategory": "Furniture Safety",
     "productName": "Corner Cushion Pack",
-    "keywords": ["sharp corners", "edges", "table"],
+    "keywords": [
+		"sharp corners", 
+		"edges", 
+		"table"
+	],
     "productDescription": "Softens sharp furniture corners to prevent injury.",
     "imageUrl": "https://m.media-amazon.com/images/I/61+ceSjd-oL._AC_SL1200_.jpg",
     "productUrl": "https://www.amazon.com/Protectors-Resistant-Adhesive-Protector-Furniture/dp/B07YZ1FMBT/ref=sr_1_2_sspa?crid=262UQKVS01XZM&dib=eyJ2IjoiMSJ9.DUuuEGvT8mfGQ4KS6cUUer9on_9TTtxHlRtIx0s_T8rdDbdN4g6OUpvQoAWKEuVlZ0JN84KjhZgd650DnSmg7zBizdZOev6FXc5iAqwr5FjHuqr65CY0z4d-heXXNyojYSfO126dmE3w7z0PIwwYF2CtxfniZVcejZhY6pin2OU2Aw60Yh3n-doFgQdgUI1Zm3zxCvoZ3M5Bf6i641W3bpWsW3WehmiGwy-kWYadH2-Ndn7sWby5uRUFc89Jgy76dQKOorDK8a-GmtEdvihtpkTIFEb29gXF6C_9BbkR2Uw.APzKskE4ydw5EuaALp59WMRH56QkUjt4cSRDaiYDDIA&dib_tag=se&keywords=child+proofing+sharp+corners&qid=1746078864&sprefix=child+proofing+sharp+corne%2Caps%2C534&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
@@ -18,7 +26,11 @@
   {
     "productCategory": "Electrical Safety",
     "productName": "Socket Plug Covers",
-    "keywords": ["electric", "socket", "outlet"],
+    "keywords": [
+      "electric",
+      "socket",
+      "outlet"
+    ],
     "productDescription": "Prevents toddlers from inserting objects into power sockets.",
     "imageUrl": "https://via.placeholder.com/100x100.png?text=Plug+Cover",
     "productUrl": "https://example.com/plug-covers"
@@ -26,7 +38,11 @@
   {
     "productCategory": "Door Safety",
     "productName": "Finger Pinch Guard",
-    "keywords": ["door", "pinch", "fingers"],
+    "keywords": [
+      "door",
+      "pinch",
+      "fingers"
+    ],
     "productDescription": "Stops doors from slamming and pinching fingers.",
     "imageUrl": "https://via.placeholder.com/100x100.png?text=Door+Guard",
     "productUrl": "https://example.com/door-guard"
@@ -34,9 +50,613 @@
   {
     "productCategory": "Window Safety",
     "productName": "Window Lock Set",
-    "keywords": ["window", "lock", "fall"],
+    "keywords": [
+      "window",
+      "lock",
+      "fall"
+    ],
     "productDescription": "Locks windows to prevent accidental openings.",
     "imageUrl": "https://via.placeholder.com/100x100.png?text=Window+Lock",
     "productUrl": "https://example.com/window-lock"
+  },
+  {
+    "productCategory": "Furniture Safety",
+    "productName": "Kiddo Gate",
+    "keywords": [
+      "sharp",
+      "bump",
+      "injury"
+    ],
+    "productDescription": "A furniture safety device designed to keep kids safe from sharp, bump, injury.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Gate",
+    "productUrl": "https://example.com/kiddo-gate"
+  },
+  {
+    "productCategory": "Door Safety",
+    "productName": "Safe Stopper",
+    "keywords": [
+      "knob",
+      "slam",
+      "fingers"
+    ],
+    "productDescription": "A door safety device designed to keep kids safe from knob, slam, fingers.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Stopper",
+    "productUrl": "https://example.com/safe-stopper"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Safe Barrier",
+    "keywords": [
+      "shock",
+      "plug",
+      "socket"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from shock, plug, socket.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Barrier",
+    "productUrl": "https://example.com/safe-barrier"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Guard Protector",
+    "keywords": [
+      "sharp",
+      "burns",
+      "oven"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from sharp, burns, oven.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Protector",
+    "productUrl": "https://example.com/guard-protector"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Protect Gate",
+    "keywords": [
+      "oven",
+      "sharp",
+      "kitchen"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from oven, sharp, kitchen.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Protect+Gate",
+    "productUrl": "https://example.com/protect-gate"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Little Bumper",
+    "keywords": [
+      "screen",
+      "window",
+      "fall"
+    ],
+    "productDescription": "A window safety device designed to keep kids safe from screen, window, fall.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Bumper",
+    "productUrl": "https://example.com/little-bumper"
+  },
+  {
+    "productCategory": "General Safety",
+    "productName": "Guard Bumper",
+    "keywords": [
+      "safe",
+      "baby",
+      "guard"
+    ],
+    "productDescription": "A general safety device designed to keep kids safe from safe, baby, guard.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Bumper",
+    "productUrl": "https://example.com/guard-bumper"
+  },
+  {
+    "productCategory": "General Safety",
+    "productName": "Little Strap",
+    "keywords": [
+      "safe",
+      "secure",
+      "childproof"
+    ],
+    "productDescription": "A general safety device designed to keep kids safe from safe, secure, childproof.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Strap",
+    "productUrl": "https://example.com/little-strap"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "ChildSafe Shield",
+    "keywords": [
+      "alert",
+      "fire",
+      "alarm"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from alert, fire, alarm.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=ChildSafe+Shield",
+    "productUrl": "https://example.com/childsafe-shield"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Little Bumper",
+    "keywords": [
+      "wet",
+      "water",
+      "tub"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from wet, water, tub.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Bumper",
+    "productUrl": "https://example.com/little-bumper"
+  },
+  {
+    "productCategory": "General Safety",
+    "productName": "Kiddo Lock",
+    "keywords": [
+      "protect",
+      "baby",
+      "childproof"
+    ],
+    "productDescription": "A general safety device designed to keep kids safe from protect, baby, childproof.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Lock",
+    "productUrl": "https://example.com/kiddo-lock"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Kiddo Cover",
+    "keywords": [
+      "plug",
+      "shock",
+      "electric"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from plug, shock, electric.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Cover",
+    "productUrl": "https://example.com/kiddo-cover"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "Secure Latch",
+    "keywords": [
+      "alarm",
+      "smoke",
+      "detector"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from alarm, smoke, detector.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Secure+Latch",
+    "productUrl": "https://example.com/secure-latch"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "ChildSafe Strap",
+    "keywords": [
+      "smoke",
+      "alarm",
+      "detector"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from smoke, alarm, detector.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=ChildSafe+Strap",
+    "productUrl": "https://example.com/childsafe-strap"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "Safe Stopper",
+    "keywords": [
+      "alarm",
+      "smoke",
+      "alert"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from alarm, smoke, alert.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Stopper",
+    "productUrl": "https://example.com/safe-stopper"
+  },
+  {
+    "productCategory": "Cabinet Safety",
+    "productName": "Kiddo Bumper",
+    "keywords": [
+      "access",
+      "cabinet",
+      "lock"
+    ],
+    "productDescription": "A cabinet safety device designed to keep kids safe from access, cabinet, lock.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Bumper",
+    "productUrl": "https://example.com/kiddo-bumper"
+  },
+  {
+    "productCategory": "Cabinet Safety",
+    "productName": "Safe Protector",
+    "keywords": [
+      "storage",
+      "cabinet",
+      "chemicals"
+    ],
+    "productDescription": "A cabinet safety device designed to keep kids safe from storage, cabinet, chemicals.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Protector",
+    "productUrl": "https://example.com/safe-protector"
+  },
+  {
+    "productCategory": "Cabinet Safety",
+    "productName": "ChildSafe Shield",
+    "keywords": [
+      "lock",
+      "access",
+      "cabinet"
+    ],
+    "productDescription": "A cabinet safety device designed to keep kids safe from lock, access, cabinet.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=ChildSafe+Shield",
+    "productUrl": "https://example.com/childsafe-shield"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Guard Bumper",
+    "keywords": [
+      "tub",
+      "wet",
+      "slip"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from tub, wet, slip.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Bumper",
+    "productUrl": "https://example.com/guard-bumper"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Mini Gate",
+    "keywords": [
+      "oven",
+      "kitchen",
+      "hot"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from oven, kitchen, hot.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Mini+Gate",
+    "productUrl": "https://example.com/mini-gate"
+  },
+  {
+    "productCategory": "Door Safety",
+    "productName": "Safe Barrier",
+    "keywords": [
+      "slam",
+      "pinch",
+      "knob"
+    ],
+    "productDescription": "A door safety device designed to keep kids safe from slam, pinch, knob.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Barrier",
+    "productUrl": "https://example.com/safe-barrier"
+  },
+  {
+    "productCategory": "Door Safety",
+    "productName": "Little Cover",
+    "keywords": [
+      "lock",
+      "pinch",
+      "knob"
+    ],
+    "productDescription": "A door safety device designed to keep kids safe from lock, pinch, knob.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Cover",
+    "productUrl": "https://example.com/little-cover"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Safe Gate",
+    "keywords": [
+      "bathroom",
+      "wet",
+      "slip"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from bathroom, wet, slip.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Gate",
+    "productUrl": "https://example.com/safe-gate"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Secure Barrier",
+    "keywords": [
+      "open",
+      "window",
+      "lock"
+    ],
+    "productDescription": "A window safety device designed to keep kids safe from open, window, lock.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Secure+Barrier",
+    "productUrl": "https://example.com/secure-barrier"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Kiddo Gate",
+    "keywords": [
+      "toilet",
+      "tub",
+      "bathroom"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from toilet, tub, bathroom.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Gate",
+    "productUrl": "https://example.com/kiddo-gate"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "Kiddo Protector",
+    "keywords": [
+      "alert",
+      "alarm",
+      "detector"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from alert, alarm, detector.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Protector",
+    "productUrl": "https://example.com/kiddo-protector"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Kiddo Strap",
+    "keywords": [
+      "kitchen",
+      "oven",
+      "burns"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from kitchen, oven, burns.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Kiddo+Strap",
+    "productUrl": "https://example.com/kiddo-strap"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Safe Cover",
+    "keywords": [
+      "glass",
+      "screen",
+      "lock"
+    ],
+    "productDescription": "A window safety device designed to keep kids safe from glass, screen, lock.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Cover",
+    "productUrl": "https://example.com/safe-cover"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "Secure Shield",
+    "keywords": [
+      "smoke",
+      "hazard",
+      "fire"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from smoke, hazard, fire.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Secure+Shield",
+    "productUrl": "https://example.com/secure-shield"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Tiny Stopper",
+    "keywords": [
+      "climb",
+      "fall",
+      "step"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from climb, fall, step.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Tiny+Stopper",
+    "productUrl": "https://example.com/tiny-stopper"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Protect Strap",
+    "keywords": [
+      "lock",
+      "open",
+      "window"
+    ],
+    "productDescription": "A window safety device designed to keep kids safe from lock, open, window.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Protect+Strap",
+    "productUrl": "https://example.com/protect-strap"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "ChildSafe Cover",
+    "keywords": [
+      "shock",
+      "plug",
+      "socket"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from shock, plug, socket.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=ChildSafe+Cover",
+    "productUrl": "https://example.com/childsafe-cover"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Guard Strap",
+    "keywords": [
+      "climb",
+      "block",
+      "stair"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from climb, block, stair.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Strap",
+    "productUrl": "https://example.com/guard-strap"
+  },
+  {
+    "productCategory": "Cabinet Safety",
+    "productName": "Little Latch",
+    "keywords": [
+      "cabinet",
+      "chemicals",
+      "drawer"
+    ],
+    "productDescription": "A cabinet safety device designed to keep kids safe from cabinet, chemicals, drawer.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Latch",
+    "productUrl": "https://example.com/little-latch"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Safe Stopper",
+    "keywords": [
+      "outlet",
+      "cord",
+      "shock"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from outlet, cord, shock.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Stopper",
+    "productUrl": "https://example.com/safe-stopper"
+  },
+  {
+    "productCategory": "Window Safety",
+    "productName": "Tot Latch",
+    "keywords": [
+      "glass",
+      "window",
+      "screen"
+    ],
+    "productDescription": "A window safety device designed to keep kids safe from glass, window, screen.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Tot+Latch",
+    "productUrl": "https://example.com/tot-latch"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Safe Barrier",
+    "keywords": [
+      "water",
+      "toilet",
+      "bathroom"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from water, toilet, bathroom.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Barrier",
+    "productUrl": "https://example.com/safe-barrier"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Tot Strap",
+    "keywords": [
+      "block",
+      "step",
+      "stair"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from block, step, stair.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Tot+Strap",
+    "productUrl": "https://example.com/tot-strap"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Little Bumper",
+    "keywords": [
+      "step",
+      "fall",
+      "block"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from step, fall, block.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Bumper",
+    "productUrl": "https://example.com/little-bumper"
+  },
+  {
+    "productCategory": "Fire Safety",
+    "productName": "Tiny Barrier",
+    "keywords": [
+      "alarm",
+      "hazard",
+      "fire"
+    ],
+    "productDescription": "A fire safety device designed to keep kids safe from alarm, hazard, fire.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Tiny+Barrier",
+    "productUrl": "https://example.com/tiny-barrier"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Secure Gate",
+    "keywords": [
+      "climb",
+      "stair",
+      "step"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from climb, stair, step.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Secure+Gate",
+    "productUrl": "https://example.com/secure-gate"
+  },
+  {
+    "productCategory": "Bathroom Safety",
+    "productName": "Guard Cover",
+    "keywords": [
+      "bathroom",
+      "slip",
+      "tub"
+    ],
+    "productDescription": "A bathroom safety device designed to keep kids safe from bathroom, slip, tub.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Cover",
+    "productUrl": "https://example.com/guard-cover"
+  },
+  {
+    "productCategory": "Cabinet Safety",
+    "productName": "Safe Lock",
+    "keywords": [
+      "chemicals",
+      "drawer",
+      "access"
+    ],
+    "productDescription": "A cabinet safety device designed to keep kids safe from chemicals, drawer, access.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Lock",
+    "productUrl": "https://example.com/safe-lock"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Secure Barrier",
+    "keywords": [
+      "shock",
+      "plug",
+      "outlet"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from shock, plug, outlet.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Secure+Barrier",
+    "productUrl": "https://example.com/secure-barrier"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Guard Protector",
+    "keywords": [
+      "hot",
+      "oven",
+      "burns"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from hot, oven, burns.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Protector",
+    "productUrl": "https://example.com/guard-protector"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Safe Gate",
+    "keywords": [
+      "outlet",
+      "shock",
+      "electric"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from outlet, shock, electric.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Gate",
+    "productUrl": "https://example.com/safe-gate"
+  },
+  {
+    "productCategory": "Stair Safety",
+    "productName": "Guard Barrier",
+    "keywords": [
+      "stair",
+      "fall",
+      "step"
+    ],
+    "productDescription": "A stair safety device designed to keep kids safe from stair, fall, step.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Guard+Barrier",
+    "productUrl": "https://example.com/guard-barrier"
+  },
+  {
+    "productCategory": "Furniture Safety",
+    "productName": "Safe Stopper",
+    "keywords": [
+      "corner",
+      "edge",
+      "bump"
+    ],
+    "productDescription": "A furniture safety device designed to keep kids safe from corner, edge, bump.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Stopper",
+    "productUrl": "https://example.com/safe-stopper"
+  },
+  {
+    "productCategory": "Electrical Safety",
+    "productName": "Safe Protector",
+    "keywords": [
+      "plug",
+      "outlet",
+      "cord"
+    ],
+    "productDescription": "A electrical safety device designed to keep kids safe from plug, outlet, cord.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Safe+Protector",
+    "productUrl": "https://example.com/safe-protector"
+  },
+  {
+    "productCategory": "Kitchen Safety",
+    "productName": "Little Protector",
+    "keywords": [
+      "oven",
+      "stove",
+      "kitchen"
+    ],
+    "productDescription": "A kitchen safety device designed to keep kids safe from oven, stove, kitchen.",
+    "imageUrl": "https://via.placeholder.com/100x100.png?text=Little+Protector",
+    "productUrl": "https://example.com/little-protector"
   }
 ]
