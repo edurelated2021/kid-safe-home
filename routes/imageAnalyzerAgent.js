@@ -32,6 +32,8 @@ router.post('/api/photo-analysis', upload.single('photo'), async (req, res) => {
       Please format your response using valid HTML:
       - Use <h3> for section headings.
       - Use <ul> and <li> for listing points under each section.
+	  
+	  If an image is not a home interior image, gently request the user to upload an image that shows home interiors. Do not provide any assessment, recommendations or information on unrelated images or topics. 
 
       Your response should include these three sections:
       1. <h3>Potential Hazards</h3>

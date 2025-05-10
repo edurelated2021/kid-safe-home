@@ -50,7 +50,7 @@ router.post('/api/product-recommendations', async (req, res) => {
       You are a child safety expert. Given the following list of supported keywords: "${supportedKeywords}", 
       analyze the user's query: "${query}" and extract the most relevant keywords from the supported keywords list.
       Then, choose the appropriate tool for this task and return the tool name and the selected keywords in a structured JSON format.
-      Do not return any recommendations from your end. The format should be:
+      If a question falls outside the domain of child safety, gently let the user know that your expertise is focused on child safety and suggest they ask a question within that area. Do not provide recommendations or information on unrelated topics. The format should be:
       {
         "toolName": "name_of_the_tool_to_invoke",
         "parameters": ["keyword1", "keyword2", ...]
